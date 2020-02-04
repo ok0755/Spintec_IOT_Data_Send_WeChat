@@ -7,6 +7,7 @@
 '''
 网页 http://59.40.183.220:8888/realTimeMonitor/update 为所有已接入IOT机台运行信息，数据如下(以C-40为例),数据每秒实时更新
 本程序仅抓取machineId、productName、producedParts、totalRunTime、totalDownTime、alarmMsg、idleMsg，共七个字段值
+
 machineId: "C-40"
 states: 4
 operatingTimeDay: 12
